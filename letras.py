@@ -1,3 +1,4 @@
 cooke = "galleta"
-milk = "leche"
+
 coofee = "cafe"
+dog = "perro"

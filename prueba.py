@@ -1,6 +1,6 @@
 print ("Hola mundo")
 a=1
 print (a)
-c= ("pepe")
+c= "pepe"
 
 print (a,c)
