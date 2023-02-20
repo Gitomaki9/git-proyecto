@@ -17,4 +17,6 @@ print (type('Hola Python'))
 print (type('Hola Python')) # tipo de datos 'string'
 print (type(5)) # tipo de datos 'int
 print (type(1.5))# Tipo de dato 'float'
-print (type(1 + 3j))# Tipo de datos 'Complex' numer
+print (type(1 + 3j))# Tipo de datos 'Complex' 
+print (type( True)) # Tipo de datos 'booleano'
+print ( type (print ("mi cadena de texto"))) # Tipo de datos 'noneType'
